@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ServicioInventario_V1.Modelos/1.0.0": {
+        "dependencies": {
+          "ServicioInventario_V1.Utilidades": "1.0.0"
+        },
+        "runtime": {
+          "ServicioInventario_V1.Modelos.dll": {}
+        }
+      },
+      "ServicioInventario_V1.Utilidades/1.0.0": {
+        "runtime": {
+          "ServicioInventario_V1.Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServicioInventario_V1.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServicioInventario_V1.Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

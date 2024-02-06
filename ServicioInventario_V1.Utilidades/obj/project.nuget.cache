@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xCwrN3YZQHkVWXKFcIGTzjacu4ths24fa+oly15WGHnO+94kNrBpG9W3GEABVnEU6soOzKlFMh/7JFO1y8oxDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ESoto\\OneDrive\\Escritorio\\Mis archivos\\CursoNetCore\\ServicioInventario_V1\\ServicioInventario_V1.Utilidades\\ServicioInventario_V1.Utilidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ESoto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\ESoto\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\ESoto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

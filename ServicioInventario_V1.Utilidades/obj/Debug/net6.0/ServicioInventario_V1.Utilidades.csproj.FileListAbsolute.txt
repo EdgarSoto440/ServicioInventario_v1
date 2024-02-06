@@ -1,0 +1,12 @@
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.Utilidades\bin\Debug\net6.0\ServicioInventario_V1.Utilidades.deps.json
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.Utilidades\bin\Debug\net6.0\ServicioInventario_V1.Utilidades.dll
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.Utilidades\bin\Debug\net6.0\ServicioInventario_V1.Utilidades.pdb
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.Utilidades\obj\Debug\net6.0\ServicioInventario_V1.Utilidades.csproj.AssemblyReference.cache
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.Utilidades\obj\Debug\net6.0\ServicioInventario_V1.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.Utilidades\obj\Debug\net6.0\ServicioInventario_V1.Utilidades.AssemblyInfoInputs.cache
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.Utilidades\obj\Debug\net6.0\ServicioInventario_V1.Utilidades.AssemblyInfo.cs
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.Utilidades\obj\Debug\net6.0\ServicioInventario_V1.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.Utilidades\obj\Debug\net6.0\ServicioInventario_V1.Utilidades.dll
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.Utilidades\obj\Debug\net6.0\refint\ServicioInventario_V1.Utilidades.dll
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.Utilidades\obj\Debug\net6.0\ServicioInventario_V1.Utilidades.pdb
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.Utilidades\obj\Debug\net6.0\ref\ServicioInventario_V1.Utilidades.dll

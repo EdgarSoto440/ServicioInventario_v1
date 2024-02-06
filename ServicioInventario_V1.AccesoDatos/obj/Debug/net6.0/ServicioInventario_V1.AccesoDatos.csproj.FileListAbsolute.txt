@@ -1,0 +1,17 @@
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.AccesoDatos\bin\Debug\net6.0\ServicioInventario_V1.AccesoDatos.deps.json
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.AccesoDatos\bin\Debug\net6.0\ServicioInventario_V1.AccesoDatos.dll
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.AccesoDatos\bin\Debug\net6.0\ServicioInventario_V1.AccesoDatos.pdb
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.AccesoDatos\bin\Debug\net6.0\ServicioInventario_V1.Modelos.dll
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.AccesoDatos\bin\Debug\net6.0\ServicioInventario_V1.Utilidades.dll
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.AccesoDatos\bin\Debug\net6.0\ServicioInventario_V1.Modelos.pdb
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.AccesoDatos\bin\Debug\net6.0\ServicioInventario_V1.Utilidades.pdb
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.AccesoDatos\obj\Debug\net6.0\ServicioInventario_V1.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.AccesoDatos\obj\Debug\net6.0\ServicioInventario_V1.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.AccesoDatos\obj\Debug\net6.0\ServicioInventario_V1.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.AccesoDatos\obj\Debug\net6.0\ServicioInventario_V1.AccesoDatos.AssemblyInfo.cs
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.AccesoDatos\obj\Debug\net6.0\ServicioInventario_V1.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.AccesoDatos\obj\Debug\net6.0\ServicioInventario_V1.AccesoDatos.csproj.CopyComplete
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.AccesoDatos\obj\Debug\net6.0\ServicioInventario_V1.AccesoDatos.dll
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.AccesoDatos\obj\Debug\net6.0\refint\ServicioInventario_V1.AccesoDatos.dll
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.AccesoDatos\obj\Debug\net6.0\ServicioInventario_V1.AccesoDatos.pdb
+C:\Users\ESoto\OneDrive\Escritorio\Mis archivos\CursoNetCore\ServicioInventario_V1\ServicioInventario_V1.AccesoDatos\obj\Debug\net6.0\ref\ServicioInventario_V1.AccesoDatos.dll
